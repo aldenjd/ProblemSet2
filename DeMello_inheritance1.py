@@ -3,6 +3,7 @@
 # Date: 2/13/2020
 # Description:
 
+
 class BaseCharacter: # Base Class Character
     def __init__(self, name, health):  # Initialize Function
         self.name = name  # Name of Character
